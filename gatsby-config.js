@@ -23,7 +23,6 @@ export default {
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-postcss`,
     `gatsby-transformer-json`,
     `gatsby-plugin-sharp`,
     // `gatsby-plugin-anchor-links`,
@@ -37,6 +36,18 @@ export default {
       resolve: `gatsby-plugin-manifest`,
       options: {
         icon: `src/images/how-much-oxalate-icon.svg`, // This path is relative to the root of the site.
+      },
+    },
+    {
+      resolve: `gatsby-plugin-postcss`,
+      options: {
+        postCssPlugins: [require('tailwindcss')],
+      },
+    },
+    {
+      resolve: `gatsby-plugin-postcss`,
+      options: {
+        postCssPlugins: [require('tailwindcss')],
       },
     },
   ],
