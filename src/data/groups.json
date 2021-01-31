@@ -1,0 +1,92 @@
+[
+    {
+        "group": "Breads & Grains",
+        "id": 0,
+        "slug": "breads-and-grains"
+    },
+    {
+        "group": "Breakfast",
+        "id": 1,
+        "slug": "breakfast"
+    },
+    {
+        "group": "Cereals by Brand",
+        "id": 2,
+        "slug": "cereals-by-brand"
+    },
+    {
+        "group": "Condiments",
+        "id": 3,
+        "slug": "condiments"
+    },
+    {
+        "group": "Dairy",
+        "id": 4,
+        "slug": "dairy"
+    },
+    {
+        "group": "Desserts",
+        "id": 5,
+        "slug": "desserts"
+    },
+    {
+        "group": "Drinks",
+        "id": 6,
+        "slug": "drinks"
+    },
+    {
+        "group": "Fast Food",
+        "id": 7,
+        "slug": "fast-food"
+    },
+    {
+        "group": "Fruits",
+        "id": 8,
+        "slug": "fruits"
+    },
+    {
+        "group": "Ingredients",
+        "id": 9,
+        "slug": "ingredients"
+    },
+    {
+        "group": "Nuts & Seeds",
+        "id": 10,
+        "slug": "nuts-and-seeds"
+    },
+    {
+        "group": "Proteins",
+        "id": 11,
+        "slug": "proteins"
+    },
+    {
+        "group": "Sauces",
+        "id": 12,
+        "slug": "sauces"
+    },
+    {
+        "group": "Snacks",
+        "id": 13,
+        "slug": "snacks"
+    },
+    {
+        "group": "Soups",
+        "id": 14,
+        "slug": "soups"
+    },
+    {
+        "group": "Spreads",
+        "id": 15,
+        "slug": "spreads"
+    },
+    {
+        "group": "Toppings",
+        "id": 16,
+        "slug": "toppings"
+    },
+    {
+        "group": "Vegetables",
+        "id": 17,
+        "slug": "vegetables"
+    }
+]

@@ -1,0 +1,55 @@
+@tailwind base;
+/* @tailwind components; */
+@tailwind utilities;
+
+/* TODO: look into alternative for @apply given best practices are to not use it */
+@layer base {
+    body {
+        @apply font-normal text-lg bg-offwhite-aux;
+    }
+    h1 {
+        @apply font-semibold text-center text-3xl text-navy-secondary; 
+    }
+    h2 {
+        @apply font-semibold text-center text-2xl text-navy-aux; 
+    }
+    em {
+        @apply italic bg-yellow-200 p-1;
+    }
+    sup {
+        @apply font-ibmplexmono text-xs;
+    }
+}
+
+/* TODO: - abstract @apply CSS into HTML and add colors as root variables, then update the tailwind config - see https://css-tricks.com/color-theming-with-css-custom-properties-and-tailwind/ */
+
+@layer utilities {
+    [class*="card___food_"] {
+        @apply h-auto mt-12;
+    }
+    .card___food_red {
+        box-shadow: 8px 8px theme('colors.red-accent-rgba'), 8px 8px 0px 2px theme('colors.navy-secondary');
+    }
+    .card___food_redRock {
+        box-shadow: 8px 8px theme('colors.redRock-accent-rgba'), 8px 8px 0px 2px theme('colors.navy-secondary');
+    }
+    .card___food_orange {
+        box-shadow: 8px 8px theme('colors.orange-accent-rgba'), 8px 8px 0px 2px theme('colors.navy-secondary');
+    }
+    .card___food_yellow {
+        box-shadow: 8px 8px theme('colors.yellow-accent-rgba'), 8px 8px 0px 2px theme('colors.navy-secondary');
+    }
+    .card___food_green {
+        box-shadow: 8px 8px theme('colors.green-accent-rgba'), 8px 8px 0px 2px theme('colors.navy-secondary');
+    }
+    .card___food_blue {
+        box-shadow: 8px 8px theme('colors.blue-accent-rgba'), 8px 8px 0px 2px theme('colors.navy-secondary');
+    }
+    .card___food_red {
+        box-shadow: 8px 8px theme('colors.red-accent-rgba'), 8px 8px 0px 2px theme('colors.navy-secondary');
+    }
+    /* H/t to Erik Runyon @ ND for this - makes tables scrollable on small screens */
+    .tablewrap {
+        position:relative; overflow-y:auto; margin:0 auto; clear:both; 
+    }
+}

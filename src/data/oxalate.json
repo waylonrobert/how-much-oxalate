@@ -1,0 +1,4290 @@
+[
+  {
+    "food": "1% Milk",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "1% Milk",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "2% Milk",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "2% Milk",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Alaskan King Crab",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz or 1/2 leg",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Alfalfa Sprouts",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "All-Purpose Flour",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 17
+  },
+  {
+    "food": "All-Purpose Flour",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 17
+  },
+  {
+    "food": "Almonds",
+    "group": "Nuts & Seeds", 
+    "slug": "nuts-and-seeds",
+    "serving": "1 oz or 22 kernels",
+    "rating": "Very High",
+    "oxalate": 122
+  },
+  {
+    "food": "American Cheese",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 slice",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Antelope",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Apple Butter",
+    "group": "Spreads", 
+    "slug": "spreads",
+    "serving": "1 Tbs",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Apple Juice",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "6 oz",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Apple Pie",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 piece or 1/8th of pie",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Apple Sauce",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Apples",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 fruit",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Apricot Juice",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Apricots",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 fruit",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Artichokes",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 small bud",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Artificial Sweetner",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 packet",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Asparagus",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "4 spears",
+    "rating": "Moderate",
+    "oxalate": 6
+  },
+  {
+    "food": "Avocados",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 fruit",
+    "rating": "Very High",
+    "oxalate": 19
+  },
+  {
+    "food": "Bacon",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "2 slices",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Bacon",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "2 slices",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Baked Potato with Skin",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 medium",
+    "rating": "Very High",
+    "oxalate": 97
+  },
+  {
+    "food": "Bamboo Shoots",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 35
+  },
+  {
+    "food": "Banana",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 fruit",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Barley Malt Flour",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Barley Malt Flour",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Beer (Light)",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 can",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Beer (Regular)",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 can",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Beets",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Very High",
+    "oxalate": 76
+  },
+  {
+    "food": "Biscuits",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 biscuit",
+    "rating": "Moderate",
+    "oxalate": 6
+  },
+  {
+    "food": "Black Pepper",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 dash",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Blackberries",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1/2 cup",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Blueberries",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1/2 cup",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Blueberry Muffins",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 muffin",
+    "rating": "Moderate",
+    "oxalate": 9
+  },
+  {
+    "food": "Blueberry Muffins",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 muffin",
+    "rating": "Moderate",
+    "oxalate": 9
+  },
+  {
+    "food": "Bluefish",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "1 fillet",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Bok Choy (Chinese Cabbage)",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 cup, raw",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Bologna",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "1 slice",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Bran Flakes with Raisins, Single Brand",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 57
+  },
+  {
+    "food": "Bran Muffin Low fat",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 muffin",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Bran Muffin Low Fat",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 muffin",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Bran Muffins",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 muffin",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Bran Muffins (store)",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 muffin",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Brewer's Yeast",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 tbs",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "Broccoli",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup chopped",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Brown Rice Flour",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 65
+  },
+  {
+    "food": "Brown Rice Flour",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 65
+  },
+  {
+    "food": "Brown Rice, cooked",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 24
+  },
+  {
+    "food": "Brown Sugar",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 cup packed",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Brownies",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 oz or 1/2 brownie",
+    "rating": "Very High",
+    "oxalate": 31
+  },
+  {
+    "food": "Brussel Sprouts",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup frozen",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Buckwheat Groats",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup cooked",
+    "rating": "Very High",
+    "oxalate": 133
+  },
+  {
+    "food": "Buffalo",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Bulgur, cooked",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 86
+  },
+  {
+    "food": "Bullion Cube",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 cube",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Burritos with beans",
+    "group": "Fast Food", 
+    "slug": "fast-food",
+    "serving": "1 burrito",
+    "rating": "Very High",
+    "oxalate": 17
+  },
+  {
+    "food": "Burritos with beans & meat",
+    "group": "Fast Food", 
+    "slug": "fast-food",
+    "serving": "1 burrito",
+    "rating": "Very High",
+    "oxalate": 16
+  },
+  {
+    "food": "Butter",
+    "group": "Spreads", 
+    "slug": "spreads",
+    "serving": "1 Pat",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Butter",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 pat",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Buttermilk",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Buttermilk",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Cabbage",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Cake (boxed)",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 piece",
+    "rating": "Very High",
+    "oxalate": 15
+  },
+  {
+    "food": "Cake (homemade)",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 piece",
+    "rating": "Very High",
+    "oxalate": 16
+  },
+  {
+    "food": "Cake (Low Fat Only)",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 piece",
+    "rating": "High",
+    "oxalate": 11
+  },
+  {
+    "food": "Candies with Nuts (ex Snickers)",
+    "group": "Nuts & Seeds", 
+    "slug": "nuts-and-seeds",
+    "serving": "2 oz",
+    "rating": "Very High",
+    "oxalate": 38
+  },
+  {
+    "food": "Candy bars with Nuts",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "2 oz",
+    "rating": "Very High",
+    "oxalate": 38
+  },
+  {
+    "food": "Canned Cherries",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1/2 cup",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "Canned Peaches",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1/2 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Canned Pears",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1/2 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Canned Pineapple",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1/2 cup",
+    "rating": "Very High",
+    "oxalate": 24
+  },
+  {
+    "food": "Cantaloupe",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1/4 melon",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Carnation Instant Breakfast",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 packet",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Carrot Juice",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 27
+  },
+  {
+    "food": "Carrots, cooked",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup sliced",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "Carrots, raw",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 lg carrot",
+    "rating": "High",
+    "oxalate": 10
+  },
+  {
+    "food": "Cashews",
+    "group": "Nuts & Seeds", 
+    "slug": "nuts-and-seeds",
+    "serving": "1 oz or 18 kernels",
+    "rating": "Very High",
+    "oxalate": 49
+  },
+  {
+    "food": "Catsup/Ketchup",
+    "group": "Condiments", 
+    "slug": "condiments",
+    "serving": "1 packet",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Cauliflower",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup cooked",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Celery, Cooked",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 cup",
+    "rating": "High",
+    "oxalate": 10
+  },
+  {
+    "food": "Celery, raw",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 stalk",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Cheddar Cheese",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 slice",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Cheeseburger with bun",
+    "group": "Fast Food", 
+    "slug": "fast-food",
+    "serving": "1 burger & bun",
+    "rating": "Very High",
+    "oxalate": 13
+  },
+  {
+    "food": "Cherries",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 cup",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Chicken",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Chicken Dog",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "1 dog",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Chicken Liver",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Chicken Noodle Soup",
+    "group": "Soups", 
+    "slug": "soups",
+    "serving": "1 can",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Chicken Nuggets",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "6 nuggets",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Chicken Nuggets",
+    "group": "Fast Food", 
+    "slug": "fast-food",
+    "serving": "6 nuggets",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Chicken Roll",
+    "group": "Fast Food", 
+    "slug": "fast-food",
+    "serving": "1 package",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Chili Powder",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 tbs",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "Chili with Beans",
+    "group": "Fast Food", 
+    "slug": "fast-food",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 24
+  },
+  {
+    "food": "Chives",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 tsp",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Chocolate Chip Cookies (Low Fat Only)",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 cookie",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "Chocolate Chip Cookies (store)",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 cookie",
+    "rating": "High",
+    "oxalate": 10
+  },
+  {
+    "food": "Chocolate Milk",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 cup",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "Chocolate Milk",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "Chocolate Pudding, Instant",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1/4 box or 1 oz",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Chocolate Syrup",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "2 Tbs",
+    "rating": "Very High",
+    "oxalate": 38
+  },
+  {
+    "food": "Chocolate Syrup",
+    "group": "Sauces", 
+    "slug": "sauces",
+    "serving": "2 Tbs",
+    "rating": "Very High",
+    "oxalate": 38
+  },
+  {
+    "food": "Clam Chowder",
+    "group": "Soups", 
+    "slug": "soups",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 13
+  },
+  {
+    "food": "Clams, raw",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Cocoa Powder",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "4 tsp",
+    "rating": "Very High",
+    "oxalate": 67
+  },
+  {
+    "food": "Cod Liver Fish Oil",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "1 tsp",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Cod Liver Oil",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 tsp",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Cod, pacific",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz or 1 fillet",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Coffee",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Coffee Creamer",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 Tbs",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Coffee Decaff",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Collards",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 cup",
+    "rating": "High",
+    "oxalate": 10
+  },
+  {
+    "food": "Corn",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Corn Bran",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Corn Bread",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 piece",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Corn Flour",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Corn Flour",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 cup",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Corn Grits",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 97
+  },
+  {
+    "food": "Corn Grits",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 97
+  },
+  {
+    "food": "Corn Syrup (high Fructose)",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 tbs",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Corn Syrup (Light)",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 tbs",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Cornbread",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 piece",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Cornmeal",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 64
+  },
+  {
+    "food": "Cornmeal",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 64
+  },
+  {
+    "food": "Cornstarch",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 cup",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Cottage Cheese",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1/2 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Cottage Cheese Fat Free",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1/2 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Couscous",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 15
+  },
+  {
+    "food": "Cracked Wheat Bread",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 slice",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Cranberry Sauce",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1/2 cup",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Cream",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 tbs",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Cream Cheese",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Cream Cheese",
+    "group": "Spreads", 
+    "slug": "spreads",
+    "serving": "1 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Cream Cheese Fat Free",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 oz",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Cream Cheese Fat Free",
+    "group": "Spreads", 
+    "slug": "spreads",
+    "serving": "1 oz",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Cream Cheese Low Fat",
+    "group": "Spreads", 
+    "slug": "spreads",
+    "serving": "1 oz",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Cream of Wheat",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 18
+  },
+  {
+    "food": "Cream Sauce, Homemade",
+    "group": "Sauces", 
+    "slug": "sauces",
+    "serving": "1 cup",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Cream Substitute",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 tsp",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Cucumber",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/4 cucumber",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Custard",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Danish Pastry Homemade",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 pastry",
+    "rating": "Very High",
+    "oxalate": 14
+  },
+  {
+    "food": "Danish Pastry, Fruit Filled",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 pastry",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Dates",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 date",
+    "rating": "Very High",
+    "oxalate": 24
+  },
+  {
+    "food": "Doughnut",
+    "group": "Fast Food", 
+    "slug": "fast-food",
+    "serving": "1 doughnut",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Doughnut",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 doughnut",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Dried Apples",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 cup or 13 rings",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Dried Apricots",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 cup of halves",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Dried Cranberries",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1/2 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Dried Figs",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "5 pieces/fruits",
+    "rating": "Very High",
+    "oxalate": 24
+  },
+  {
+    "food": "Dried Pineapples",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1/2 cup",
+    "rating": "Very High",
+    "oxalate": 30
+  },
+  {
+    "food": "Dried Prunes",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1/4 cup or 5 prunes",
+    "rating": "High",
+    "oxalate": 11
+  },
+  {
+    "food": "Egg Beaters",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "4 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Eggbeaters",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "4 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Eggbeaters",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "4 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Eggroll",
+    "group": "Fast Food", 
+    "slug": "fast-food",
+    "serving": "1 eggroll",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Eggs",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 medium",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Eggs",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 medium egg",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Eggs",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 medium egg",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Enchilada with Cheese & beef",
+    "group": "Fast Food", 
+    "slug": "fast-food",
+    "serving": "1 enchilada",
+    "rating": "Very High",
+    "oxalate": 13
+  },
+  {
+    "food": "Enchilada with Chicken",
+    "group": "Fast Food", 
+    "slug": "fast-food",
+    "serving": "1 enchilada",
+    "rating": "Very High",
+    "oxalate": 13
+  },
+  {
+    "food": "Endive",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "English Muffin",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 muffin",
+    "rating": "Moderate",
+    "oxalate": 8
+  },
+  {
+    "food": "English Muffin Multi-Grain",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 muffin",
+    "rating": "Moderate",
+    "oxalate": 8
+  },
+  {
+    "food": "English Muffin Wheat",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 muffin",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "English Muffin Whole Wheat",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 muffin",
+    "rating": "High",
+    "oxalate": 12
+  },
+  {
+    "food": "English Muffins - Multi-Grain",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 muffin",
+    "rating": "Moderate",
+    "oxalate": 8
+  },
+  {
+    "food": "English Muffins - Reg",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 muffin",
+    "rating": "Moderate",
+    "oxalate": 8
+  },
+  {
+    "food": "English Muffins - Wheat",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 muffin",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "English Muffins Whole Wheat ONLY",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 muffin",
+    "rating": "High",
+    "oxalate": 12
+  },
+  {
+    "food": "Farina Cereal",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 16
+  },
+  {
+    "food": "Fat Free Milk",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Fat Free Milk",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Fava Beans",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Very High",
+    "oxalate": 20
+  },
+  {
+    "food": "Fig Bars",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 cookie",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Figs",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 medium fig",
+    "rating": "Moderate",
+    "oxalate": 9
+  },
+  {
+    "food": "Flaxseed",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 Tbs",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Flaxseed",
+    "group": "Nuts & Seeds", 
+    "slug": "nuts-and-seeds",
+    "serving": "1 Tbs",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Flounder",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "French Fries",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "4 oz or 1/2 cup",
+    "rating": "Very High",
+    "oxalate": 51
+  },
+  {
+    "food": "French Fries",
+    "group": "Fast Food", 
+    "slug": "fast-food",
+    "serving": "4 oz",
+    "rating": "Very High",
+    "oxalate": 51
+  },
+  {
+    "food": "French Toast",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "2 slices",
+    "rating": "Very High",
+    "oxalate": 13
+  },
+  {
+    "food": "French Toast",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "2 slices",
+    "rating": "Very High",
+    "oxalate": 13
+  },
+  {
+    "food": "Frozen Fish Sticks",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "2 sticks",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Frozen Yogurt",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1/2 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Fruit Cocktail",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1/2 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Fruit Roll-Ups",
+    "group": "Snacks", 
+    "slug": "snacks",
+    "serving": "1 roll",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Fudge Sauce",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "2 Tbs",
+    "rating": "Very High",
+    "oxalate": 28
+  },
+  {
+    "food": "Fudge Sauce",
+    "group": "Sauces", 
+    "slug": "sauces",
+    "serving": "2 Tbs",
+    "rating": "Very High",
+    "oxalate": 28
+  },
+  {
+    "food": "Garlic Powder",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 tsp",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Gatorade",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Gelatin",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 tbs or 1 envelope",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "General Mills Apple Cinnamon Cheerios",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "General Mills Basic 4",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 17
+  },
+  {
+    "food": "General Mills Berry Bust Cheerios",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "General Mills Cheerios",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Moderate",
+    "oxalate": 8
+  },
+  {
+    "food": "General Mills Cinnamon Toast Crunch",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "General Mills Cocoa Puffs",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "General Mills Corn Chex",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "General Mills Count Chocula",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "General Mills Fiber One",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1/2 cup",
+    "rating": "Very High",
+    "oxalate": 13
+  },
+  {
+    "food": "General Mills Frosted Cheerios",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Moderate",
+    "oxalate": 6
+  },
+  {
+    "food": "General Mills Golden Grahams",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Moderate",
+    "oxalate": 9
+  },
+  {
+    "food": "General Mills Harmony",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 1/4 cup",
+    "rating": "High",
+    "oxalate": 11
+  },
+  {
+    "food": "General Mills Honey Nut Cheerios",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "General Mills Honey Nut Clusters",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 23
+  },
+  {
+    "food": "General Mills Kix",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 1/3 cup",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "General Mills Lucky Charms",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "General Mills Multi-Bran Chex",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 36
+  },
+  {
+    "food": "General Mills Nature Valley Cinnimon & Raisins Granola",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Very High",
+    "oxalate": 13
+  },
+  {
+    "food": "General Mills Oatmeal Crisp with Almonds",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 24
+  },
+  {
+    "food": "General Mills Oatmeal Raisin Crisp",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 13
+  },
+  {
+    "food": "General Mills Raisin Nut Bran",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 24
+  },
+  {
+    "food": "General Mills Reese's Puffs",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Moderate",
+    "oxalate": 8
+  },
+  {
+    "food": "General Mills Rice Chex",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 1/4 cup",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "General Mills Team Cheerios",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Moderate",
+    "oxalate": 6
+  },
+  {
+    "food": "General Mills Total Corn Flakes",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 1/3 cup",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "General Mills Total Raisin Bran",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 31
+  },
+  {
+    "food": "General Mills Trix",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "General Mills Wheat Chex",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "General Mills Wheaties",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Moderate",
+    "oxalate": 8
+  },
+  {
+    "food": "General Mills Wheaties Raisin Bran",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "High",
+    "oxalate": 11
+  },
+  {
+    "food": "General Mills Whole Grain Total",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Moderate",
+    "oxalate": 8
+  },
+  {
+    "food": "Graham Crackers",
+    "group": "Snacks", 
+    "slug": "snacks",
+    "serving": "1 large rectangle",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Granola Bars Low Fat",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 oz uncoated",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Granola Bars- Hard & Plain",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 bar",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Grape Juice",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "8 oz",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Grapefruit",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1/2 fruit",
+    "rating": "Very High",
+    "oxalate": 12
+  },
+  {
+    "food": "Grapefruit Juice",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "8 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Grapes",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1/2 cup or 16 seedless grapes",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Gravy",
+    "group": "Sauces", 
+    "slug": "sauces",
+    "serving": "1 cup",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Green Pepper",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 ring",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Grilled Cheese Sandwich",
+    "group": "Fast Food", 
+    "slug": "fast-food",
+    "serving": "1 sandwich",
+    "rating": "High",
+    "oxalate": 12
+  },
+  {
+    "food": "Ground Beef",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Haddock",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Halibut",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Ham",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Healthy Valley Oat Bran Flakes",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Herring (Atlantic & Pacific)",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Homemade Cream Sauce",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 cup",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Honey",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 tbs",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Honeydew Melon",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Horseradish",
+    "group": "Spreads", 
+    "slug": "spreads",
+    "serving": "1 Tbs",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Hot Chili Peppers",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Hot Chocolate (homemade)",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 65
+  },
+  {
+    "food": "Hot Dog with Bun",
+    "group": "Fast Food", 
+    "slug": "fast-food",
+    "serving": "1 dog with bun",
+    "rating": "Moderate",
+    "oxalate": 9
+  },
+  {
+    "food": "Hot Dogs",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "1 dog",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Hummus",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 Tbs",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Ice Cream Light",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1/2 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Iceberg Lettuce",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Italian Salad Dressing",
+    "group": "Toppings", 
+    "slug": "toppings",
+    "serving": "1 Tbs",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Jam/Jelly",
+    "group": "Toppings", 
+    "slug": "toppings",
+    "serving": "1 Tbs",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Jello",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Just Right with Crunchy Nuggets",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Kale",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 cup chopped",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Kashi Go Lean Bar",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 bar",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Kellogg's All-Bran Buds",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1/2 cup",
+    "rating": "Very High",
+    "oxalate": 20
+  },
+  {
+    "food": "Kellogg's All-Bran Original",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1/2 cup",
+    "rating": "Very High",
+    "oxalate": 26
+  },
+  {
+    "food": "Kellogg's All-Bran with Extra Fiber",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1/2 cup",
+    "rating": "High",
+    "oxalate": 11
+  },
+  {
+    "food": "Kellogg's Cocoa Krispies",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "High",
+    "oxalate": 11
+  },
+  {
+    "food": "Kellogg's Complete Oat Bran Flakes",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Kellogg's Complete Wheat Bran",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Very High",
+    "oxalate": 34
+  },
+  {
+    "food": "Kellogg's Corn Flakes",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Kellogg's Corn Pops",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Kellogg's Cracklin' Oat Bran",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Very High",
+    "oxalate": 15
+  },
+  {
+    "food": "Kellogg's Crispix",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Kellogg's Froot Loops",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Kellogg's Frosted Flakes",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Kellogg's Frosted Mini-Wheats",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 28
+  },
+  {
+    "food": "Kellogg's Healthy Choice Multi-Grain Flakes",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "Kellogg's Honey Crunch Corn Flakes",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Kellogg's Just Right Fruit & Nut",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 13
+  },
+  {
+    "food": "Kellogg's Kashi Go Lean",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Very High",
+    "oxalate": 14
+  },
+  {
+    "food": "Kellogg's Kashi Good Friends",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "High",
+    "oxalate": 10
+  },
+  {
+    "food": "Kellogg's Kashi Heart to Heart",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Moderate",
+    "oxalate": 8
+  },
+  {
+    "food": "Kellogg's Low Fat Granola with Raisins",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "2/3 cup",
+    "rating": "Very High",
+    "oxalate": 16
+  },
+  {
+    "food": "Kellogg's Mueslix",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "2/3 cup",
+    "rating": "Very High",
+    "oxalate": 17
+  },
+  {
+    "food": "Kellogg's Mueslix Apple & Almond Crunch",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "2/3 cup",
+    "rating": "Very High",
+    "oxalate": 20
+  },
+  {
+    "food": "Kellogg's Product 19",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Kellogg's Puffed Kashi",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 13
+  },
+  {
+    "food": "Kellogg's Raisin Bran",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 46
+  },
+  {
+    "food": "Kellogg's Raisin Bran Crunch",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 27
+  },
+  {
+    "food": "Kellogg's Raisin Squares Mini-Wheats",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Very High",
+    "oxalate": 41
+  },
+  {
+    "food": "Kellogg's Rice Krispies",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 1/4 cup",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Kellogg's Smacks",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Kellogg's Smart Start",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 15
+  },
+  {
+    "food": "Kellogg's Special K",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Kellogg's Special K Red Berries",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Kiwi",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 fruit",
+    "rating": "Very High",
+    "oxalate": 16
+  },
+  {
+    "food": "Kool-Aid",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Lard",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 tsp",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Lasagna",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 serving",
+    "rating": "Very High",
+    "oxalate": 23
+  },
+  {
+    "food": "Lasagna with meat",
+    "group": "Fast Food", 
+    "slug": "fast-food",
+    "serving": "1 serving",
+    "rating": "Very High",
+    "oxalate": 23
+  },
+  {
+    "food": "Lean Hamburg (75%)",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Lean Hamburg (85%)",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Lean Hamburg (90%)",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Lemon Juice (canned or bottled)",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 cup",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Lemon Juice Raw (concentrate)",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 tbs",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Lemonade (diet)",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "8 oz",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Lemonade (frozen from concentrate)",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "8 oz",
+    "rating": "Very High",
+    "oxalate": 15
+  },
+  {
+    "food": "Lemons",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 wedge",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Lentil Soup",
+    "group": "Soups", 
+    "slug": "soups",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 39
+  },
+  {
+    "food": "Limes",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1/2 fruit",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Liquor (80 proof)",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 jigger",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Liver",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3.5oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Low Fat Cheese",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 slice",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Low Fat Cottage Cheese",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Low Fat Cream Cheese",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 oz",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Low Fat Muffins",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 muffin",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Lowfat Frozen Yogurt",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1/2 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Macaroni & Cheese",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Macaroni & Cheese",
+    "group": "Fast Food", 
+    "slug": "fast-food",
+    "serving": "1 cup",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Mackeral",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Mango",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 fruit",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Mango Juice",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "8 oz",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Mashed Potatoes",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 29
+  },
+  {
+    "food": "Mayonnaise",
+    "group": "Condiments", 
+    "slug": "condiments",
+    "serving": "1 Tbs",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Meatballs",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "2 meatballs",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Milk Chocolate Candies",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 oz",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Millet, cooked",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 62
+  },
+  {
+    "food": "Miso",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 40
+  },
+  {
+    "food": "Miso",
+    "group": "Soups", 
+    "slug": "soups",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 40
+  },
+  {
+    "food": "Miso Soup",
+    "group": "Soups", 
+    "slug": "soups",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 111
+  },
+  {
+    "food": "Mixed Nuts (with Peanuts)",
+    "group": "Nuts & Seeds", 
+    "slug": "nuts-and-seeds",
+    "serving": "1 oz",
+    "rating": "Very High",
+    "oxalate": 39
+  },
+  {
+    "food": "Mixed Vegetables, frozen",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Molasses",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 tbs",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Moose",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Mozzarella Cheese",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Muffins Low Fat",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 muffin",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Mung Beans",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Mushroons",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 mushroom",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Mustard Greens",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 cup chopped",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Mustard, yellow",
+    "group": "Condiments", 
+    "slug": "condiments",
+    "serving": "1 tsp or packet",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Nabisco Honey Nut Shredded Wheat Bite Size",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 47
+  },
+  {
+    "food": "Nabisco Shredded Wheat",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "2 biscuits",
+    "rating": "Very High",
+    "oxalate": 42
+  },
+  {
+    "food": "Nachos with Cheese",
+    "group": "Fast Food", 
+    "slug": "fast-food",
+    "serving": "6-8 chips",
+    "rating": "Very High",
+    "oxalate": 13
+  },
+  {
+    "food": "Navy Beans",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Very High",
+    "oxalate": 76
+  },
+  {
+    "food": "Nectarine",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 fruit",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Non Fat Ice Cream",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1/2 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Non Fat Yogurt with Fruit",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "8 oz",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Non-Dairy Creamer",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 Tbs",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Oat Bran Bread",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 slice",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Oat Bran Muffin",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 small muffin",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Oat Bran, raw",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1/3 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Oat Flour",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Oatmeal Bread",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 piece",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Oatmeal Cereal",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Oatmeal Cookie (homemade)",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 cookie",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Oatmeal Cookies (store)",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 cookie",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Okra",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Very High",
+    "oxalate": 57
+  },
+  {
+    "food": "Olive Oil & Vinegar",
+    "group": "Sauces", 
+    "slug": "sauces",
+    "serving": "",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Olives",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "approx 10 olives",
+    "rating": "Very High",
+    "oxalate": 18
+  },
+  {
+    "food": "Onion Rings",
+    "group": "Fast Food", 
+    "slug": "fast-food",
+    "serving": "6-8 rings",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Onions",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 small onion",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Orange",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 fruit",
+    "rating": "Very High",
+    "oxalate": 29
+  },
+  {
+    "food": "Orange Juice",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Oriental Vegetables, frozen",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Moderate",
+    "oxalate": 6
+  },
+  {
+    "food": "Oysters",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Pancake Syrup",
+    "group": "Sauces", 
+    "slug": "sauces",
+    "serving": "3/4 Tbs",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Pancake Syrup",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "3/4 tbs",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Pancakes (dry mix)",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "4 pancakes",
+    "rating": "Very High",
+    "oxalate": 37
+  },
+  {
+    "food": "Pancakes (Homemade)",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "4 cakes",
+    "rating": "High",
+    "oxalate": 11
+  },
+  {
+    "food": "Pancakes (Homemade)",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "4 pancakes",
+    "rating": "Very High",
+    "oxalate": 22
+  },
+  {
+    "food": "Pancakes (mix)",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "4 cakes",
+    "rating": "High",
+    "oxalate": 10
+  },
+  {
+    "food": "Papaya",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 medium fruit",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Parsnip",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Very High",
+    "oxalate": 15
+  },
+  {
+    "food": "Peaches",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 fruit",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Peanut Butter",
+    "group": "Spreads", 
+    "slug": "spreads",
+    "serving": "1 Tbs",
+    "rating": "Very High",
+    "oxalate": 13
+  },
+  {
+    "food": "Peanut Butter Reduced Fat",
+    "group": "Spreads", 
+    "slug": "spreads",
+    "serving": "1 Tbs",
+    "rating": "Very High",
+    "oxalate": 16
+  },
+  {
+    "food": "Peanuts",
+    "group": "Nuts & Seeds", 
+    "slug": "nuts-and-seeds",
+    "serving": "1 oz",
+    "rating": "Very High",
+    "oxalate": 27
+  },
+  {
+    "food": "Pears",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 fruit",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Peas",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Pecans",
+    "group": "Nuts & Seeds", 
+    "slug": "nuts-and-seeds",
+    "serving": "1 oz or 15 halves",
+    "rating": "High",
+    "oxalate": 10
+  },
+  {
+    "food": "Pickles",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 pickle",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Pies (homemade)",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 piece or 1/8th of pie",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Pineapple",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 cup",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Pineapple Juice",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "8 oz",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Pistachios",
+    "group": "Nuts & Seeds", 
+    "slug": "nuts-and-seeds",
+    "serving": "1 oz or 48 kernels",
+    "rating": "Very High",
+    "oxalate": 14
+  },
+  {
+    "food": "Pizza with Cheese",
+    "group": "Fast Food", 
+    "slug": "fast-food",
+    "serving": "2 slices",
+    "rating": "Very High",
+    "oxalate": 13
+  },
+  {
+    "food": "Plain Yogurt",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Plaintain",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 medium",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Plums",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 fruit",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Pollock",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Popcorn, air-popped",
+    "group": "Snacks", 
+    "slug": "snacks",
+    "serving": "1 cup",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Popcorn, oil-popped",
+    "group": "Snacks", 
+    "slug": "snacks",
+    "serving": "1 cup",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Popsicle",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 stick",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Poptart",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 tart",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "Pork",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "5 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Post Cereals 100% Bran",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1/3 cup",
+    "rating": "Very High",
+    "oxalate": 25
+  },
+  {
+    "food": "Post Cereals 40% Bran",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Very High",
+    "oxalate": 36
+  },
+  {
+    "food": "Post Cereals Banana Nut Crunch",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 25
+  },
+  {
+    "food": "Post Cereals Blueberry Morning",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1/2 cup",
+    "rating": "Moderate",
+    "oxalate": 8
+  },
+  {
+    "food": "Post Cereals Cranberry Almond Crunch (Morning Traditions)",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 35
+  },
+  {
+    "food": "Post Cereals Fruit & Fiber Dates, Raisins & Walnuts",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 41
+  },
+  {
+    "food": "Post Cereals Fruity Pebbles",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Post Cereals Grape Nuts",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1/2 cup",
+    "rating": "Very High",
+    "oxalate": 14
+  },
+  {
+    "food": "Post Cereals Grape Nuts Flakes",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "Post Cereals Great Grains Crunch Pecan",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "2/3 cup",
+    "rating": "Very High",
+    "oxalate": 18
+  },
+  {
+    "food": "Post Cereals Great Grains Raisin, Dates & Pecans",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "2/3 cup",
+    "rating": "Very High",
+    "oxalate": 17
+  },
+  {
+    "food": "Post Cereals Honey Bunches of Oats Honey Roasted",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Post Cereals Honey Bunches of Oats with Almonds",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Post Cereals Honeycomb",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 1/3 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Post Cereals Original Shredded Wheat & Bran",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 1/4 cup",
+    "rating": "Very High",
+    "oxalate": 53
+  },
+  {
+    "food": "Post Cereals Wafflecrisp",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Postum (coffee Substitute)",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 serving",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Potato Chips",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 oz",
+    "rating": "Very High",
+    "oxalate": 21
+  },
+  {
+    "food": "Potato Chips",
+    "group": "Snacks", 
+    "slug": "snacks",
+    "serving": "1 oz",
+    "rating": "Very High",
+    "oxalate": 21
+  },
+  {
+    "food": "Potato Salad",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/3 cup",
+    "rating": "Very High",
+    "oxalate": 17
+  },
+  {
+    "food": "Powdered Milk",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 envelope",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Powered Milk",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 envelope",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Pretzels, Hard & Salted",
+    "group": "Snacks", 
+    "slug": "snacks",
+    "serving": "1 oz",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Prune Juice",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "Pudding Popsicle",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 pop",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Pumpkin Seeds",
+    "group": "Nuts & Seeds", 
+    "slug": "nuts-and-seeds",
+    "serving": "1 cup, cooked",
+    "rating": "Very High",
+    "oxalate": 17
+  },
+  {
+    "food": "Quaker 100% Natural Granola Oats & Honey",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1/2 cup",
+    "rating": "Very High",
+    "oxalate": 13
+  },
+  {
+    "food": "Quaker Cap'n Crunch",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Quaker Honey Nut Oats",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 oz",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "Quaker Low Fat 100% Natural Granola with Raisins",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Very High",
+    "oxalate": 15
+  },
+  {
+    "food": "Quaker Oaker Oat Cinnamon Life",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Quaker Oat Bran",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 1/4  cup",
+    "rating": "High",
+    "oxalate": 10
+  },
+  {
+    "food": "Quaker Oatmeal Squares",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Quaker Puffed Rice",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Quaker Puffed Wheat",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 1/4 cup",
+    "rating": "Moderate",
+    "oxalate": 9
+  },
+  {
+    "food": "Quaker Quaker Oat Life",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "3/4 cup",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Quaker Toasted Oatmeal",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 oz",
+    "rating": "Moderate",
+    "oxalate": 6
+  },
+  {
+    "food": "Radish",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "10 count",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Raisins",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 oz or 1 small snack box",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Raspberries",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 48
+  },
+  {
+    "food": "Red Kidney Beans",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Very High",
+    "oxalate": 15
+  },
+  {
+    "food": "Red River Cereal",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1/4 cup",
+    "rating": "Very High",
+    "oxalate": 13
+  },
+  {
+    "food": "Red Wine",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "4 oz",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Refried Beans",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Very High",
+    "oxalate": 16
+  },
+  {
+    "food": "Rhubarb",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Very High",
+    "oxalate": 541
+  },
+  {
+    "food": "Rice Bran",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 281
+  },
+  {
+    "food": "Rice Cake",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 cake",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Rice Dream",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 13
+  },
+  {
+    "food": "Rice Krispy Treat",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 bar",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Rice Pudding",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1/2 cup",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "Ritz Crackers",
+    "group": "Snacks", 
+    "slug": "snacks",
+    "serving": "5 crackers",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Romaine Lettuce",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Rutabaga",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup mashed",
+    "rating": "Very High",
+    "oxalate": 31
+  },
+  {
+    "food": "Rye Bread",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 slice",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "Salmon (all types)",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "4 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Salsa",
+    "group": "Toppings", 
+    "slug": "toppings",
+    "serving": "1 Tbs",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Salt",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 tsp",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Salted Butter",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 pat",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Saltines",
+    "group": "Snacks", 
+    "slug": "snacks",
+    "serving": "1 cracker",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Sardines",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "1 can or 3.75oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Sauerkraut",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Scallions",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Sea Vegetables",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 cup",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Sherbert",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1/2 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Shortening",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 tsp",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Shrimp",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Snack Cakes (crème filled)",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 cake",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Sodas (all types)",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "8 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Sour Cream",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 Tbs",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Soy Burger",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3.5oz",
+    "rating": "High",
+    "oxalate": 12
+  },
+  {
+    "food": "Soy Flour",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 94
+  },
+  {
+    "food": "Soy Flour",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 94
+  },
+  {
+    "food": "Soy Milk",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "Soy Protein Isolate",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 oz",
+    "rating": "Very High",
+    "oxalate": 27
+  },
+  {
+    "food": "Soy Sauce",
+    "group": "Sauces", 
+    "slug": "sauces",
+    "serving": "1 Tbs",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Soybeans",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 cup",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "Spaghetti",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup cooked",
+    "rating": "High",
+    "oxalate": 11
+  },
+  {
+    "food": "Spinach, cooked",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Very High",
+    "oxalate": 755
+  },
+  {
+    "food": "Spinach, raw",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 656
+  },
+  {
+    "food": "Spoonsize Shredded Wheat",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 45
+  },
+  {
+    "food": "Strawberries",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1/2 cup",
+    "rating": "Very Low",
+    "oxalate": 2
+  },
+  {
+    "food": "String Beans",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Moderate",
+    "oxalate": 9
+  },
+  {
+    "food": "Stuffing",
+    "group": "Toppings", 
+    "slug": "toppings",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 36
+  },
+  {
+    "food": "Sugar",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 tsp",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Sunflower Seeds",
+    "group": "Nuts & Seeds", 
+    "slug": "nuts-and-seeds",
+    "serving": "1 cup",
+    "rating": "High",
+    "oxalate": 12
+  },
+  {
+    "food": "Sweet Potatoes",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 28
+  },
+  {
+    "food": "Sweet Rolls Low Fat",
+    "group": "Breakfast", 
+    "slug": "breakfast",
+    "serving": "1 pastry",
+    "rating": "Very High",
+    "oxalate": 13
+  },
+  {
+    "food": "Sweet Whey Dried",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 tbs",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Sweet Whey Fluid",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Sweetened Instant Iced Tea",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Swordfish",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "1 piece",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Tacos",
+    "group": "Fast Food", 
+    "slug": "fast-food",
+    "serving": "1 small taco",
+    "rating": "High",
+    "oxalate": 12
+  },
+  {
+    "food": "Tahini",
+    "group": "Sauces", 
+    "slug": "sauces",
+    "serving": "1 Tbs",
+    "rating": "Very High",
+    "oxalate": 16
+  },
+  {
+    "food": "Tangerine",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 fruit",
+    "rating": "High",
+    "oxalate": 10
+  },
+  {
+    "food": "Tapioca Pudding",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1/2 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Tea, Brewed",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 14
+  },
+  {
+    "food": "Tofu",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3.5oz",
+    "rating": "Very High",
+    "oxalate": 13
+  },
+  {
+    "food": "Tomato",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1 med whole",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "Tomato Juice",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 14
+  },
+  {
+    "food": "Tomato Sauce",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Very High",
+    "oxalate": 17
+  },
+  {
+    "food": "Tortilla Corn Chips",
+    "group": "Snacks", 
+    "slug": "snacks",
+    "serving": "1 oz",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "Tortillas, Corn",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 tortilla",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "Tortillas, flour",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 tortilla",
+    "rating": "Moderate",
+    "oxalate": 8
+  },
+  {
+    "food": "Trail Mix",
+    "group": "Nuts & Seeds", 
+    "slug": "nuts-and-seeds",
+    "serving": "1 oz",
+    "rating": "Very High",
+    "oxalate": 15
+  },
+  {
+    "food": "Triscuits",
+    "group": "Snacks", 
+    "slug": "snacks",
+    "serving": "1 cracker",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Tuna Fish (in oil)",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3.5 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Tuna Fish (in water)",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3.5oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Tuna Salad",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "1 cup",
+    "rating": "Moderate",
+    "oxalate": 6
+  },
+  {
+    "food": "Turkey",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "5 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Turkey Dogs",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "1 dog",
+    "rating": "Low",
+    "oxalate": 3
+  },
+  {
+    "food": "Turnip",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup mashed",
+    "rating": "Very High",
+    "oxalate": 30
+  },
+  {
+    "food": "Uncle Sam",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "1 cup",
+    "rating": "High",
+    "oxalate": 11
+  },
+  {
+    "food": "V8 Juice",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 18
+  },
+  {
+    "food": "Vanilla Ice Cream",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1/2 cup",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Vanilla Pudding",
+    "group": "Desserts", 
+    "slug": "desserts",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Vegetable Beef Soup",
+    "group": "Soups", 
+    "slug": "soups",
+    "serving": "1 cup",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Veggie Burger",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "1 pattie",
+    "rating": "Very High",
+    "oxalate": 24
+  },
+  {
+    "food": "Venison",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Walnuts",
+    "group": "Nuts & Seeds", 
+    "slug": "nuts-and-seeds",
+    "serving": "1 cup or 7 nuts",
+    "rating": "Very High",
+    "oxalate": 31
+  },
+  {
+    "food": "Water",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "8 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Waterchestnuts",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "4 waterchestnuts",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Watermelon",
+    "group": "Fruits", 
+    "slug": "fruits",
+    "serving": "1 slice",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Wheat Berries",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup cooked",
+    "rating": "Very High",
+    "oxalate": 98
+  },
+  {
+    "food": "Wheat Bran Bread",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 slice",
+    "rating": "Moderate",
+    "oxalate": 7
+  },
+  {
+    "food": "Wheat Crackers",
+    "group": "Snacks", 
+    "slug": "snacks",
+    "serving": "1 cracker",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Wheat Flour, Whole Grain",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 29
+  },
+  {
+    "food": "Wheat Flour, Whole Grain",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 cup",
+    "rating": "Very High",
+    "oxalate": 29
+  },
+  {
+    "food": "Wheat Thins, Reduced Fat",
+    "group": "Snacks", 
+    "slug": "snacks",
+    "serving": "1 cracker",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Wheetabix Whole Wheat",
+    "group": "Cereals by Brand", 
+    "slug": "cereals-by-brand",
+    "serving": "2 biscuits",
+    "rating": "Moderate",
+    "oxalate": 8
+  },
+  {
+    "food": "Whipped Cream",
+    "group": "Toppings", 
+    "slug": "toppings",
+    "serving": "2 Tbs",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Whipped Topping",
+    "group": "Toppings", 
+    "slug": "toppings",
+    "serving": "2 Tbs",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "White Bread",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 slice",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "White Rice Flour",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup",
+    "rating": "High",
+    "oxalate": 11
+  },
+  {
+    "food": "White Rice Flour",
+    "group": "Ingredients", 
+    "slug": "ingredients",
+    "serving": "1 cup",
+    "rating": "High",
+    "oxalate": 11
+  },
+  {
+    "food": "White Rice, cooked",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 cup",
+    "rating": "Low",
+    "oxalate": 4
+  },
+  {
+    "food": "White Wine",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "4 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Whiting",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Little or None",
+    "oxalate": 0
+  },
+  {
+    "food": "Whole Milk",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Whole Milk",
+    "group": "Drinks", 
+    "slug": "drinks",
+    "serving": "1 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Whole Oat Bread",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 slice",
+    "rating": "Moderate",
+    "oxalate": 5
+  },
+  {
+    "food": "Whole Wheat Bread",
+    "group": "Breads & Grains", 
+    "slug": "breads-and-grains",
+    "serving": "1 slice",
+    "rating": "Moderate",
+    "oxalate": 6
+  },
+  {
+    "food": "Wild Game Meat",
+    "group": "Proteins", 
+    "slug": "proteins",
+    "serving": "3 oz",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Yams",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup, cubed",
+    "rating": "Very High",
+    "oxalate": 40
+  },
+  {
+    "food": "Yellow Squash",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Yogurt with Fruit",
+    "group": "Dairy", 
+    "slug": "dairy",
+    "serving": "8 oz",
+    "rating": "Very Low",
+    "oxalate": 1
+  },
+  {
+    "food": "Zucchini",
+    "group": "Vegetables", 
+    "slug": "vegetables",
+    "serving": "1/2 cup",
+    "rating": "Very Low",
+    "oxalate": 1
+  }
+]

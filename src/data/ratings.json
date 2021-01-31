@@ -1,0 +1,32 @@
+[
+    {
+        "rating": "Very High",
+        "id": 0,
+        "slug": "very-high"
+    },
+    {
+        "rating": "High",
+        "id": 1,
+        "slug": "high"
+    },
+    {
+        "rating": "Moderate",
+        "id": 2,
+        "slug": "moderate"
+    },
+    {
+        "rating": "Low",
+        "id": 3,
+        "slug": "low"
+    },
+    {
+        "rating": "Very Low",
+        "id": 4,
+        "slug": "very-low"
+    },
+    {
+        "rating": "Little or None",
+        "id": 5,
+        "slug": "little-or-none"
+    }
+]
