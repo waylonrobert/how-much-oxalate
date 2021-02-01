@@ -1,4 +1,5 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
+import { Link } from 'gatsby';
 import React from 'react';
 import Header from '../components/Header';
 import Layout from '../components/Layout';
@@ -125,7 +126,10 @@ export default function AboutThisSite() {
         <h2 className="text-left mt-4">
           Who can I contact about this site if I have a question or comment?
         </h2>
-        <p>You can contact me by filling out this form.</p>
+        <p>
+          You can contact me by{' '}
+          <Link to="/contact/">filling out this form</Link>.
+        </p>
         <hr className="mt-4 mb-4" />
 
         <ul className="list-none text-sm">

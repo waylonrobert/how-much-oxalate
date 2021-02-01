@@ -17,7 +17,12 @@ export default function Contact() {
         </p>
         <div className="mt-8 max-w-md">
           <div className="grid grid-cols-1 gap-6">
-            <form name="contact" method="POST" data-netlify="true">
+            <form
+              name="contact"
+              method="POST"
+              action="/success/"
+              data-netlify="true"
+            >
               <label className="block mb-4" htmlFor="name">
                 <span className="text-gray-700">Name</span>
                 <input
