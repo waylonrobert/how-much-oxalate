@@ -128,7 +128,10 @@ export default function AboutThisSite() {
         </h2>
         <p>
           You can contact me by{' '}
-          <Link to="/contact/">filling out this form</Link>.
+          <Link className="underline text-blue-accent" to="/contact/">
+            filling out this form
+          </Link>
+          .
         </p>
         <hr className="mt-4 mb-4" />
 
