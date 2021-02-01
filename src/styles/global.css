@@ -24,9 +24,9 @@
 /* TODO: - abstract @apply CSS into HTML and add colors as root variables, then update the tailwind config - see https://css-tricks.com/color-theming-with-css-custom-properties-and-tailwind/ */
 
 @layer utilities {
-    [class*="card___food_"] {
+    /* [class*="card___food_"] {
         @apply h-auto mt-12;
-    }
+    } */
     .card___food_red {
         box-shadow: 8px 8px theme('colors.red-accent-rgba'), 8px 8px 0px 2px theme('colors.navy-secondary');
     }
