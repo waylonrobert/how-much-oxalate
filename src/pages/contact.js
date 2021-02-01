@@ -25,6 +25,7 @@ export default function Contact() {
                   type="text"
                   className="mt-1 block w-full rounded-md border-gray-300 focus:ring-teal-primary"
                   placeholder="Your name"
+                  name="name"
                 />
               </label>
               <label className="block mb-4" htmlFor="email">
@@ -34,6 +35,7 @@ export default function Contact() {
                   type="email"
                   className="mt-1 block w-full rounded-md border-gray-300  focus:ring-teal-primary"
                   placeholder="youremail@youremailprovider.com"
+                  name="email"
                 />
               </label>
 
@@ -44,6 +46,7 @@ export default function Contact() {
                   className="mt-1 block w-full rounded-md border-gray-300 focus:ring-teal-primary"
                   rows="4"
                   placeholder="Your message"
+                  name="message"
                 />
               </label>
               <button
