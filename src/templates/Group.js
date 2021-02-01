@@ -76,13 +76,7 @@ export default function GroupFoodPage({ data }) {
                   Group
                 </td>
                 <td className="text-xl border-l border-gray-accent font-ibmplexmono text-teal-primary pt-1 pb-1 pl-2 w-full">
-                  <Link
-                    to={`/food-groups/${food.slug}`}
-                    className="border-b-2 border-dotted border-gray-accent"
-                    title={`${food.group} food groups`}
-                  >
-                    {food.group}
-                  </Link>
+                  {food.group}
                 </td>
               </tr>
               <tr className="border-b border-gray-accent">

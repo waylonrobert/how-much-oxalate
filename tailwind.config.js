@@ -1,5 +1,7 @@
+/* eslint-disable global-require */
 /* eslint-disable prettier/prettier */
 module.exports = {
+  /* very important otherwise PurgeCSS won't work */
   purge: [
     './src/**/*.html',
     './src/**/*.js',
@@ -38,5 +40,5 @@ module.exports = {
     },
   },
   variants: {},
-  plugins: [],
+  plugins: [require('@tailwindcss/forms')],
 };
