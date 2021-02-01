@@ -123,17 +123,7 @@ export default function RatingFoodPage({ data }) {
                         ? 'text-blue-accent'
                         : ''
                     }
-                  >
-                    <Link
-                      to={`/food-ratings/${food.rating}`
-                        .replace(/\s+/g, '-')
-                        .toLowerCase()}
-                      title={`${food.rating} food ratings`}
-                      className="border-b-2 border-dotted border-gray-accent"
-                    >
-                      {food.rating}
-                    </Link>
-                  </span>
+                  />
                 </td>
               </tr>
             </table>
