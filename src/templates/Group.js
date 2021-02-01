@@ -43,22 +43,22 @@ export default function GroupFoodPage({ data }) {
           //     <span>{food.rating}</span>
           //   )}
           // </li>
-
+          // TODO: could probably make this a component since it is repeated in two files
           <div
             key={food.id}
             className={
               food.rating === 'Very High'
-                ? 'card___food_red h-36 border-2 border-navy-secondary mx-auto p-5 w-full sm:w-2/4'
+                ? 'card___food_red h-36 border-2 border-navy-secondary mx-auto p-5 w-full h-auto mt-12 sm:w-2/4'
                 : food.rating === 'High'
-                ? 'card___food_redRock h-36 border-2 border-navy-secondary mx-auto p-5 w-full sm:w-2/4'
+                ? 'card___food_redRock h-36 border-2 border-navy-secondary mx-auto p-5 w-full h-auto mt-12 sm:w-2/4'
                 : food.rating === 'Moderate'
-                ? 'card___food_orange h-36 border-2 border-navy-secondary mx-auto p-5 w-full sm:w-2/4'
+                ? 'card___food_orange h-36 border-2 border-navy-secondary mx-auto p-5 w-full h-auto mt-12 sm:w-2/4'
                 : food.rating === 'Low'
-                ? 'card___food_yellow h-36 border-2 border-navy-secondary mx-auto p-5 w-full sm:w-2/4'
+                ? 'card___food_yellow h-36 border-2 border-navy-secondary mx-auto p-5 w-full h-auto mt-12 sm:w-2/4'
                 : food.rating === 'Very Low'
-                ? 'card___food_green h-36 border-2 border-navy-secondary mx-auto p-5 w-full sm:w-2/4'
+                ? 'card___food_green h-36 border-2 border-navy-secondary mx-auto p-5 w-full h-auto mt-12 sm:w-2/4'
                 : food.rating === 'Little or None'
-                ? 'card___food_blue h-36 border-2 border-navy-secondary mx-auto p-5 w-full sm:w-2/4'
+                ? 'card___food_blue h-36 border-2 border-navy-secondary mx-auto p-5 w-full h-auto mt-12 sm:w-2/4'
                 : ''
             }
           >
