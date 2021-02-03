@@ -22,7 +22,11 @@ export default function Contact() {
               method="POST"
               action="/success/"
               data-netlify="true"
+              data-netlify-honeypot="bot-field"
             >
+              {/* honeypot */}
+              <input type="hidden" name="bot-field" />
+              <input type="hidden" name="form-name" value="contact" />
               <label className="block mb-4" htmlFor="name">
                 <span className="text-gray-700">Name</span>
                 <input

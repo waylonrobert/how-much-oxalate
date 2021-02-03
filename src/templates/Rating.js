@@ -123,7 +123,9 @@ export default function RatingFoodPage({ data }) {
                         ? 'text-blue-accent'
                         : ''
                     }
-                  />
+                  >
+                    {food.rating}
+                  </span>
                 </td>
               </tr>
             </table>

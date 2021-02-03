@@ -52,5 +52,12 @@ export default {
         postCssPlugins: [require('tailwindcss')],
       },
     },
+    {
+      resolve: 'gatsby-plugin-google-tagmanager',
+      options: {
+        id: 'GTM-M4XKV7N',
+        includeInDevelopment: false,
+      },
+    },
   ],
 };
