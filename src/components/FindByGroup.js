@@ -24,7 +24,7 @@ export default function FindByGroup() {
         Find by food group
       </h2>
 
-      <p className="text-center text-offwhite-aux pt-4">
+      <p className="text-center px-2 pt-4 text-offwhite-aux">
         Browse here to get all results based on food group
       </p>
       <section className="grid grid-cols-1 gap-1 pb-8 mx-auto w-3/4">

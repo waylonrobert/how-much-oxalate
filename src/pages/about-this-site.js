@@ -29,7 +29,11 @@ export default function AboutThisSite() {
             </li>
             <li className="mt-2">
               Highlight oxalate content in foods based on a{' '}
-              <a href="#ratings" className="underline text-blue-accent">
+              <a
+                href="#ratings"
+                title="Rating System"
+                className="underline text-blue-accent"
+              >
                 rating system
               </a>
             </li>
@@ -142,7 +146,7 @@ export default function AboutThisSite() {
             <a
               className="underline text-blue-accent"
               href="https://regepi.bwh.harvard.edu/health/nutrition.html"
-              title="Oxalate content of foods "
+              title="Oxalate content of foods"
             >
               Oxalate content of foods
             </a>

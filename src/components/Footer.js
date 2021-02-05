@@ -25,7 +25,7 @@ export default function Footer() {
           </span>
         </p>
 
-        <aside className="buymeacoffee pb-4">
+        <div className="buymeacoffee pb-4">
           <a href="https://www.buymeacoffee.com/waylonrobert">
             <img
               src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=waylonrobert&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00"
@@ -33,7 +33,7 @@ export default function Footer() {
               className="mx-auto w-1/2 sm:w-1/6"
             />
           </a>
-        </aside>
+        </div>
       </section>
     </footer>
   );

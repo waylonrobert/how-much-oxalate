@@ -26,7 +26,7 @@ export default function FindByRating() {
       >
         Find by Oxalate rating
       </h2>
-      <p className="text-center pt-4 text-offwhite-aux">
+      <p className="text-center px-2 pt-4 text-offwhite-aux">
         Browse here to get all results based on oxalate rating
       </p>
       <section className="grid grid-cols-1 gap-1 pb-8 mx-auto w-3/4">
