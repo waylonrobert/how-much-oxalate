@@ -3,7 +3,7 @@ import React from 'react';
 import { Link } from 'gatsby';
 
 const ListLink = (props) => (
-  <li className="inline-block mr-4 font-semibold text-teal-primary text-lg hover:border-solid hover:border-teal-primary hover:text-navy-secondary">
+  <li className="inline-block mr-4 font-semibold text-teal-primary text-lg hover:border-teal-primary hover:text-navy-secondary">
     <Link to={props.to}>{props.children}</Link>
   </li>
 );
@@ -11,7 +11,7 @@ const ListLink = (props) => (
 export default function Header() {
   return (
     <header className="grid sm:grid-cols-1 md:grid-cols-2 gap-2 m-12 mx-auto w-3/4">
-      <Link to="/" className="mx-auto sm:m-0">
+      <Link to="/" title="How Much Oxalate" className="mx-auto sm:m-0">
         <svg
           width="300"
           height="50"

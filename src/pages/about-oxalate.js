@@ -23,7 +23,10 @@ export default function AboutOxalate() {
           <em className="p-0 bg-transparent">oxalic acid</em> to mean the same
           thing in terms of nutrition.
           <sup>
-            <a className="underline text-blue-accent" href="#ref1">
+            <a
+              className="underline  text-teal-primary hover:border-teal-primary hover:text-navy-secondary"
+              href="#ref1"
+            >
               1
             </a>
           </sup>
@@ -35,7 +38,10 @@ export default function AboutOxalate() {
           forms. In most humans, calcium oxalate forms in the kidneys where
           oxalic acid and calcium meet.
           <sup>
-            <a className="underline text-blue-accent" href="#ref2">
+            <a
+              className="underline  text-teal-primary hover:border-teal-primary hover:text-navy-secondary"
+              href="#ref2"
+            >
               2
             </a>
           </sup>
@@ -54,7 +60,10 @@ export default function AboutOxalate() {
           recommended to calcium oxalate kidney stone patients to avoid or
           reduce ingestion of foods that contain oxalic acid.
           <sup>
-            <a className="underline text-blue-accent" href="#ref3">
+            <a
+              className="underline  text-teal-primary hover:border-teal-primary hover:text-navy-secondary"
+              href="#ref3"
+            >
               3
             </a>
           </sup>
@@ -74,7 +83,10 @@ export default function AboutOxalate() {
           medical professionals recommended that calcium oxalate kidney stone
           patients do two things to help reduce the risk of forming stones:
           <sup>
-            <a className="underline text-blue-accent" href="#ref4">
+            <a
+              className="underline  text-teal-primary hover:border-teal-primary hover:text-navy-secondary"
+              href="#ref4"
+            >
               4
             </a>
           </sup>
@@ -93,7 +105,7 @@ export default function AboutOxalate() {
             <a id="ref1" title="Reference 1" />
             <sup>1</sup> Noonan, S. C., &amp; Savage, G. P. (1999).{' '}
             <a
-              className="underline text-blue-accent"
+              className="underline  text-teal-primary hover:border-teal-primary hover:text-navy-secondary"
               href="https://pubmed.ncbi.nlm.nih.gov/24393738/"
               title="Oxalate content of foods and its effect on humans"
             >
@@ -109,7 +121,7 @@ export default function AboutOxalate() {
             <a id="ref2" title="Reference 2" />
             <sup>2</sup> Heaney, R. P., &amp; Weaver, C. M. (1989).{' '}
             <a
-              className="underline text-blue-accent"
+              className="underline  text-teal-primary hover:border-teal-primary hover:text-navy-secondary"
               href="https://pubmed.ncbi.nlm.nih.gov/2801588/"
               title="Oxalate: effect on calcium absorbability"
             >
@@ -125,7 +137,7 @@ export default function AboutOxalate() {
             <a id="ref3" title="Reference 3" />
             <sup>3</sup> Worcester, E. M., &amp; Coe, F. L. (2010).{' '}
             <a
-              className="underline text-blue-accent"
+              className="underline  text-teal-primary hover:border-teal-primary hover:text-navy-secondary"
               href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3192488/"
               title="Clinical Practice Calcium Kidney Stones"
             >
@@ -141,7 +153,7 @@ export default function AboutOxalate() {
             <a id="ref4" title="Reference 4" />
             <sup>4</sup> Gul, Z., &amp; Monga, M. (2014).{' '}
             <a
-              className="underline text-blue-accent"
+              className="underline  text-teal-primary hover:border-teal-primary hover:text-navy-secondary"
               href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4265710/"
               title="Medical and Dietary Therapy for Kidney Stone Prevention"
             >

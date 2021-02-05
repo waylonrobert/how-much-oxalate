@@ -19,6 +19,15 @@
     sup {
         @apply font-ibmplexmono text-xs;
     }
+    [aria-current]:not([aria-current="false"]) {
+        color: theme('colors.navy-secondary');
+        font-weight: bold;
+      }
+    thead#all-foods-column-heading {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    }
 }
 
 /* TODO: - abstract @apply CSS into HTML and add colors as root variables, then update the tailwind config - see https://css-tricks.com/color-theming-with-css-custom-properties-and-tailwind/ */
@@ -48,8 +57,13 @@
     .card___food_red {
         box-shadow: 8px 8px theme('colors.red-accent-rgba'), 8px 8px 0px 2px theme('colors.navy-secondary');
     }
-    /* H/t to Erik Runyon @ ND for this - makes tables scrollable on small screens */
+    
+    
+}
+
+@media (max-width: 640px) {
+   /* H/t to Erik Runyon @ ND for this - makes tables scrollable on small screens */
     .tablewrap {
         position:relative; overflow-y:auto; margin:0 auto; clear:both; 
-    }
-}
+        }
+  }

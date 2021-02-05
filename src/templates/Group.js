@@ -10,7 +10,7 @@ export default function GroupFoodPage({ data }) {
     <InteriorLayout>
       <SEO title={`${data.foods.nodes[0].group} - Food Groups`} />
       <Header />
-      <section className="grid grid-cols-1 gap-1 m-12 mx-auto w-3/4">
+      <section className="grid grid-cols-1 gap-1 m-12 mx-auto w-full px-4 sm:w-3/4">
         <h1>Food Groups - {data.foods.nodes[0].group}</h1>
 
         <p className="text-center mt-6">

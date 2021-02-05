@@ -30,13 +30,13 @@ export default function FindByFood() {
         <h3 className="text-center">Find by Food Group</h3>
       </div> */}
 
-      <h3 className="font-bold leading-tight text-4xl text-center text-navy-aux sm:text-5xl">
+      <h1 className="font-bold leading-tight text-4xl text-center text-navy-aux sm:text-5xl">
         Discover oxalate content in various foods
-      </h3>
-      <h4 className="pt-5 text-center text-xl">
+      </h1>
+      <h2 className="pt-5 font-normal text-center text-current text-xl">
         Helping kidney stone sufferers find calcium oxalate content in common
         foods. Choose how you'd like to start:
-      </h4>
+      </h2>
       <ul className="mx-auto text-center sm:m-8 sm:inline">
         <li className="inline sm:mr-6">
           <Link to="/all-foods">
