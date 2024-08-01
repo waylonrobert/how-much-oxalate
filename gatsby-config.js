@@ -55,7 +55,7 @@ export default {
     {
       resolve: 'gatsby-plugin-google-tagmanager',
       options: {
-        id: 'GTM-M4XKV7N',
+        id: 'G-W51VWVRHGN',
         includeInDevelopment: false,
       },
     },
